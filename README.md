@@ -1,22 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=180&section=header&text=Tulika%20Jain&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%40%20Thapar%20University&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=180&section=header&text=Hi,%20I'm%20Tulika%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=45"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+end-to-end+software+systems;ML+Pipelines+%7C+AI+Applications+%7C+DBMS;Sharpening+DSA+%26+Problem-Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Aspiring+dev+exploring+ML%2C+AI+%26+everything+shiny+in+between+%E2%9C%A8" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Open%20to%20Opportunities-2C5364?style=for-the-badge" />
-</p>
-
-<br/>
-
-## 🚀&nbsp; About Me
-
-- 🎓&nbsp; B.Tech in Computer Science and Engineering, Thapar University
-- 🛠️&nbsp; I build end-to-end software systems, relational databases, ML pipelines, and AI-powered applications
-- 📚&nbsp; Currently strengthening my Data Structures & Algorithms and problem-solving skills
 
 <br/>
 
@@ -61,14 +49,6 @@
 
 <br/>
 
-## 🏆&nbsp; Leadership & Experience
-
-- 🎤&nbsp; **Club Secretary**, Thapar Derabassi Toastmasters Club — led club operations, organized 10+ speech events, mentored 30+ members
-- 🎨&nbsp; **Head of Design**, Backslash Computing Society — designed visual identity & event collateral, contributed to UI/UX
-- 📣&nbsp; **Head of Content**, GirlUp TIET DB — led content strategy and awareness campaigns, executed 5+ events
-
-<br/>
-
 ## 📊&nbsp; GitHub Stats
 
 <p align="center">
@@ -95,9 +75,5 @@
 <img src="https://img.shields.io/badge/tulika__jain-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 <a href="mailto:tulikajain2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-<br/>
-
-<p align="center"><i>Thanks for stopping by! ⭐ from this repo if you found something useful.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
