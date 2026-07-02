@@ -9,10 +9,9 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science and Engineering, Thapar Institute
-- 🛠️ I build end-to-end software systems — relational databases, ML pipelines, and AI-powered applications
+- 🎓 B.Tech in Computer Science and Engineering, Thapar University
+- 🛠️ I build end-to-end software systems, relational databases, ML pipelines, and AI-powered applications
 - 📚 Currently strengthening my Data Structures & Algorithms and problem-solving skills
-- 🌱 Builder's mindset, always eager to learn and contribute
 
 ---
 
@@ -70,6 +69,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tulika2401&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tulika2401&theme=react-dark" alt="Tulika's Activity Graph" />
 </p>
 
 ---
