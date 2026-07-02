@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=180&section=header&text=Hi,%20I'm%20Tulika%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=180&section=header&text=Tulika%20Jain&fontSize=40&fontColor=ffffff&fontAlignY=55"/>
 </p>
+
+## 👋&nbsp; Hey, it's Tulika here
+
+I like building things that actually work.
+Currently living somewhere between ML models and messy code.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Aspiring+dev+exploring+ML%2C+AI+%26+everything+shiny+in+between+%E2%9C%A8" alt="Typing SVG" />
@@ -76,4 +81,4 @@
 <a href="mailto:tulikajain2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:111111&height=100&section=footer"/>
