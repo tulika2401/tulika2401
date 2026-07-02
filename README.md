@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Tulika Jain</h1>
 <h3 align="center">Computer Science Undergraduate @ Thapar Institute of Engineering and Technology</h3>
 
@@ -54,24 +53,6 @@
 
 ---
 
-### 🔭 Featured Projects
-
-**🛩️ [Predictive Maintenance of Aircraft Engines](#)**
-Deep learning system (TensorFlow/Keras) predicting Remaining Useful Life of aircraft engines from multi-sensor time-series data. Compared RNN, LSTM, and GRU — best LSTM RMSE of 40.74 — with a 3-tier health classification layer (Safe/Warning/Critical).
-
-**📦 [Amazon Supply Chain Intelligence](#)**
-ML pipeline classifying e-commerce delivery risk on 180K+ orders. Benchmarked Logistic Regression, XGBoost, and Random Forest (84.46% accuracy) with feature engineering across shipping mode, spatial coordinates, and customer segments.
-
-**🎨 [Art Gallery & Auction House Management System](#)**
-MySQL relational database with 12 tables, 3NF normalisation, triggers for bid validation and ownership transfer, stored procedures, and 5 SQL functions for auction analytics.
-
-**💰 [Grameen Finance AI](#)**
-Multilingual conversational AI chatbot (Rasa + LangChain) for financial guidance in rural India — Hindi & English voice-first support, Flutter frontend, Django REST backend, gamified learning and offline-first access.
-
-> 💡 Replace the `#` links above with your actual GitHub repo URLs.
-
----
-
 ### 🏆 Leadership & Experience
 
 - 🎤 **Club Secretary**, Thapar Derabassi Toastmasters Club — led club operations, organized 10+ speech events, mentored 30+ members
@@ -97,24 +78,11 @@ Multilingual conversational AI chatbot (Rasa + LangChain) for financial guidance
 
 <p align="left">
 <a href="https://www.linkedin.com/in/tulika-jain" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/tulikajainn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<img src="https://img.shields.io/badge/-tulika__jain-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: tulika_jain"/>
 <a href="mailto:tulikajain2006@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
 <p align="center"><i>Thanks for stopping by! ⭐ from this repo if you found something useful.</i></p>
-
-<!--
-**tulika2401/tulika2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
