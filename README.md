@@ -4,7 +4,7 @@ I like building things that actually work.
 Currently living somewhere between ML models and messy code.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Aspiring+dev+exploring+ML%2C+AI+%26+everything+shiny+in+between+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=FiraCode&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=900&lines=Aspiring+dev+exploring+ML%2C+AI+%26+everything+shiny+in+between+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <br/>
